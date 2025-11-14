@@ -10,6 +10,12 @@ function Sidebar () {
   )
 }
 
+function Footer () {
+  return (
+    <footer></footer>
+  )
+}
+
 
 function App() {
   const [count, setCount] = useState(0)
